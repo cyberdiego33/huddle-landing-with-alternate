@@ -74,7 +74,6 @@ body {
     background-position: top;
     background-size: contain;
     background-color: var(--Very-Pale-Cyan);
-    position: relative;
 }
 
 nav {
@@ -82,9 +81,6 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 1.5rem 0;
-    position: sticky;
-    top: 0;
-    background-color: var(--nav-bc);
 }
  img {
     width: 100%;
